@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo 'no test from node.js for @allnulled/v-focus'",
     "build": "echo 'no building from node.js for @allnulled/v-focus'",
-    "versionate": "npm run build && bash versionate.sh",
+    "versionate": "echo 'no versionate from node.js for @allnulled/v-focus'",
     "test-browser": "npm run build && npx http-server -c-1 docs -o index.html"
   },
   "keywords": [],
